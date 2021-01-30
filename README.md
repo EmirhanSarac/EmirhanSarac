@@ -1,6 +1,6 @@
 ### Merhaba 👋
 
-<h3 align="left">Sosyal Medya:</h3>
+<h3 align="left">Sosyal Medya Adreslerim:</h3>
 <p align="left">
 <a href="https://twitter.com/codemirhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codemirhan" height="30" width="40" /></a>
 <a href="https://instagram.com/emirhansarac06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="emirhansarac06" height="30" width="40" /></a>
