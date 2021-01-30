@@ -7,7 +7,7 @@
 <a href="https://www.youtube.com/c/EmirhanSarac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="emi̇rhan saraç" height="30" width="40" /></a>
 </p>
 <p float="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EmirhanSarac&show_icons=true&theme=radical" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=EmirhanSarac&show_icons=true&theme=radical" width="%100" height="50px" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanSarac&hide=&langs_count=8&show_icons=true&theme=radical"  height="150px" alt="stats"/>
 
 </p>
