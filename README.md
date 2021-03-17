@@ -1,5 +1,5 @@
 ### Merhaba 👋
-5 yıldır youtube ile uğraşıyorum o kdr
+5 yıldır youtube ile uğraşıyorum o kdr Ğ
 
 Bağlantılar: [Youtube](https://youtube.com/c/EmirhanSarac) [Discord](https://discord.gg/9z8JEcG) [İnstagram](https://www.instagram.com/emirhansarac06) [Website](https://codare.fun)
 <!--
