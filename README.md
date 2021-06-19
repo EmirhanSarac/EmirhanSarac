@@ -10,7 +10,7 @@
     <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/EmirhanSarac?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=TakipEt"/></a>
 </p>
 
-# Sosyal Medya Bağlantıları
+# Diğer Bağlantılar
 
 [![Youtube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/EmirhanSara%C3%A7)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codemirhan)
