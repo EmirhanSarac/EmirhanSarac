@@ -18,7 +18,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/codare)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/codemirhan)
 [![Mail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirhansaraciletisim@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=EmirhanSarac&label=ziyaret%C3%A7i&color=5f13e9"/>
+<img src="https://komarev.com/ghpvc/?username=EmirhanSarac&label=Ziyaret%C3%A7i&color=5f13e9"/>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c4s670qo583r9ebuko9om51x3&cover_image=true&theme=default)](https://open.spotify.com/user/c4s670qo583r9ebuko9om51x3?si=1e91cc66d1344f67)
