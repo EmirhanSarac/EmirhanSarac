@@ -20,4 +20,4 @@
 [![Mail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirhansaraciletisim@gmail.com)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c4s670qo583r9ebuko9om51x3&cover_image=true&theme=default)](https://open.spotify.com/user/c4s670qo583r9ebuko9om51x3?si=2d74b182f63842a3)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c4s670qo583r9ebuko9om51x3&cover_image=true&theme=default)](https://open.spotify.com/user/c4s670qo583r9ebuko9om51x3?si=1e91cc66d1344f67)
