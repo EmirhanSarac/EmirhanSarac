@@ -5,4 +5,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/codare)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/codemirhan)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c4s670qo583r9ebuko9om51x3&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=c4s670qo583r9ebuko9om51x3&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c4s670qo583r9ebuko9om51x3&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
