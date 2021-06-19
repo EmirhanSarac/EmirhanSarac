@@ -10,7 +10,7 @@
   <img align="left" alt="Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 <a href="https://discord.gg/Zwr4MqyKrC">
-  <img align="left" alt="Dıscord" width="100px" src="https://img.shields.io/static/v1?label=Discord&message=Discord&color=7289DA" />
+  <img align="left" alt="Dıscord" width="85px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord-&logoColor=white" />
 </a>
 <br><br>
 <a href="mailto:emirhansaraciletisim@gmail.com">
