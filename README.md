@@ -6,7 +6,6 @@
     <img alt="youtube views" title="YouTube İzlenme Sayım" src="https://img.shields.io/youtube/channel/views/UCVRhrcoG6FOvHGKehYtvKHg?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://twitter.com/codemirhan">
     <img alt="followers" title="Twitter'dan Takip Et" src="https://img.shields.io/twitter/follow/codemirhan?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-      <img alt="followers" title="Twitter'dan Takip Et" src="https://img.shields.io/instagram/follow/emirhansarac06?color=8a3ab9&labelColor=488207&label=Follow&logo=instagram&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/EmirhanSarac">
     <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/EmirhanSarac?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
