@@ -22,6 +22,3 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c4s670qo583r9ebuko9om51x3&cover_image=true&theme=default)](https://open.spotify.com/user/c4s670qo583r9ebuko9om51x3?si=1e91cc66d1344f67)
-<a href="https://discord.com/users/683036205453148190">
-  <img src="https://lanyard-profile-readme.vercel.app/api/683036205453148190" align="right" />
-</a>
