@@ -20,5 +20,4 @@
 [![Mail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirhansaraciletisim@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=EmirhanSarac&label=Ziyaret%C3%A7i&color=5f13e9"/>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/683036205453148190)](https://discord.com/users/683036205453148190)
 
