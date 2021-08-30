@@ -21,4 +21,5 @@
 <img src="https://komarev.com/ghpvc/?username=EmirhanSarac&label=Ziyaret%C3%A7i&color=5f13e9"/>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c4s670qo583r9ebuko9om51x3&cover_image=true&theme=default)](https://open.spotify.com/user/c4s670qo583r9ebuko9om51x3?si=1e91cc66d1344f67)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/683036205453148190
+                            )](https://discord.com/users/683036205453148190)
