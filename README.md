@@ -1,7 +1,8 @@
   # Merhaba! Ben [Emirhan](https://github.com/EmirhanSarac) <img src="https://github.com/EmirhanSarac/emirhansarac2/blob/main/mrb.gif" width="25px">
 
+<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/683036205453148190)](https://discord.com/users/683036205453148190)
-
+</div>
 
 <p align="center">  
   <a href="https://www.youtube.com/c/EmirhanSarac?sub_confirmation=1">
