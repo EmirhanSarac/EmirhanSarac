@@ -1,7 +1,6 @@
-<center>
-  <a href="https://discord.com/users/683036205453148190"><img src="https://lanyard.cnrad.dev/api/683036205453148190" /></a>
-</center>
-# Diğer Bağlantılar
+<div align="center">
+    <a href="https://discord.com/users/683036205453148190" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/683036205453148190"></a>
+</div>
 
 [![Youtube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/EmirhanSara%C3%A7)
 [![Mail](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emirhansarac06)
