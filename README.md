@@ -1,12 +1,5 @@
   # Merhaba! Ben [Emirhan](https://github.com/EmirhanSarac) <img src="https://github.com/EmirhanSarac/emirhansarac2/blob/main/mrb.gif" width="25px">
 
-### 🧑‍💻 Discord Profilim
-
-<a href="https://discord.com/users/683036205453148190" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/683036205453148190" alt="Discord Presence"/>
-</a>
-
-
 <p align="center">  
   <a href="https://www.youtube.com/c/EmirhanSarac?sub_confirmation=1">
     <img alt="youtube subscribers" title="Youtube Kanalıma Abone Ol" src="https://img.shields.io/youtube/channel/subscribers/UCVRhrcoG6FOvHGKehYtvKHg?color=%23E05D44&label=ABONEOL&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
