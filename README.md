@@ -1,6 +1,10 @@
   # Merhaba! Ben [Emirhan](https://github.com/EmirhanSarac) <img src="https://github.com/EmirhanSarac/emirhansarac2/blob/main/mrb.gif" width="25px">
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/683036205453148190)](https://discord.com/users/683036205453148190)
+### 🧑‍💻 Discord Profilim
+
+<a href="https://discord.com/users/683036205453148190" target="_blank">
+  <img src="https://lanyard.cnrad.dev/api/683036205453148190" alt="Discord Presence"/>
+</a>
 
 
 <p align="center">  
