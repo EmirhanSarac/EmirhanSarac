@@ -8,7 +8,7 @@
     <a href="https://www.youtube.com/c/EmirhanSara%C3%A7" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
     </a>
-    <a href="https://www.instagram.com/emirhansarac06" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.instagram.com/emiirsrc" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://discord.gg/codare" target="_blank" rel="noopener noreferrer">
