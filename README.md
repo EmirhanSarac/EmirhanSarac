@@ -1,5 +1,6 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/683036205453148190)](https://discord.com/users/683036205453148190)
-
+<center>
+  <a href="https://discord.com/users/683036205453148190"><img src="https://lanyard.cnrad.dev/api/683036205453148190" /></a>
+</center>
 # Diğer Bağlantılar
 
 [![Youtube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/EmirhanSara%C3%A7)
